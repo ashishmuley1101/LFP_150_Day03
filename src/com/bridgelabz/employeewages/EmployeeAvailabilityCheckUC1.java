@@ -13,7 +13,7 @@ public class EmployeeAvailabilityCheckUC1 {
 		}
 		else {
 			System.out.println("Employee is absent.");
-		}
+	
 	}
 }
-
+}
