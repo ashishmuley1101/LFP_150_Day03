@@ -27,7 +27,6 @@ public class EmployeeWageCalUC5 {
 			} else {
 				total_wage_per_day = WAGE_PER_HOUR * isPresentHour;
 				System.out.print("Attendance for Day: " + day +" Employee is fully present    "); 
-				System.out.println("Daily total Wages is" + "  " + total_wage_per_day + " rupees");
 			}
 			monthlyWage = monthlyWage + total_wage_per_day;
 			System.out.println();
