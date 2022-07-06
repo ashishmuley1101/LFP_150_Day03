@@ -21,7 +21,4 @@ public class LineComparison {
 		sc.close();
 	}
 
-	public static void main(String[] args) {
-		System.out.println("Welcome to Line Computation Program...");
-	}
 }
